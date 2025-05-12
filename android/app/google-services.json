@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497509884364",
+    "project_id": "healthlab-ad119",
+    "storage_bucket": "healthlab-ad119.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497509884364:android:1617f9e1901fc1318bbd69",
+        "android_client_info": {
+          "package_name": "com.example.healthlab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCrnHvlafwaalAWYBfXAhQ2wkcJ11mBM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
